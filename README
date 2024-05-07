@@ -1,0 +1,11 @@
+# Bank Kata
+
+This project is a java application simulating basic banking operations ; deposit in and withdraw from an account.
+
+JUnit 5 is used for unit tests.
+
+To run the project, you have to : 
+
+1. Clone the project
+2. Download libraries using maven
+3. Run Unit tests or run the main class.  
